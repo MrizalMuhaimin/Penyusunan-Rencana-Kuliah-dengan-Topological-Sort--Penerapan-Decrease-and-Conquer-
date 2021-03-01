@@ -1,0 +1,28 @@
+Logkom.
+Alstrukdat.
+RPL, TBFO.
+AI, Logkom, Algeo, Stima.
+WBD, RPL.
+Orkom.
+OOP, Alstrukdat.
+Stima, Matdis.
+Probstat, Matdis, Algeo.
+OS, Orkom.
+Basdat, Alstrukdat.
+MachineLearning, AI, Probstat, Algeo, Stima.
+Sispar, OS, Orkom, Jarkom.
+PPL, RPL, MRPL.
+Grafkom, IMK, Algeo.
+SocioIF, AI, MRPL.
+Jarkom, OS, Orkom.
+SI, Basdat.
+MRPL, RPL.
+MBD, Basdat.
+IMK, OOP, Probstat.
+PDA, WBD, MRPL.
+Matdis.
+TBFO.
+Algeo.
+KP, Alstrukdat, OOP, AI, PDA.
+TA1, SocioIF.
+TA2, TA1.

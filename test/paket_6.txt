@@ -1,0 +1,8 @@
+Ca.
+Cb, Ca.
+Cc, Ca, Cb.
+Cd, Cb, Cc.
+Ce, Cb, Cd.
+Cf, Cd.
+Cg, Cc, Cd.
+Ch, Ce, Cf, Cg.
